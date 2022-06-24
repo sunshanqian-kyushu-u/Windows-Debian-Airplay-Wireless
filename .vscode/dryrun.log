@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/ubuntu20/workdir/Windows-Debian-Airplay-Wireless'
+rm build/*.png
+make: Leaving directory '/home/ubuntu20/workdir/Windows-Debian-Airplay-Wireless'
+ 
